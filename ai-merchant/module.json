@@ -1,0 +1,18 @@
+{
+  "id": "ai-merchant",
+  "title": "AI Merchant",
+  "description": "A simple module created as a demo for showing AI integration with Foundry VTT",
+  "authors": [
+    {
+    "name": "Muffin"
+    }
+    ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10"
+  },  
+  "scripts": [
+	"scripts/ai-merchant.js"
+  ]
+}
